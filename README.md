@@ -3,10 +3,11 @@
 
 Desarrollador: Andres Contreras
 
-**Directorio Fuente** `/src/c/Users/Usuario/Desktop/GIT/Github/1067030891-UP-AndresContreras/BD-GB-ZOO` 📂
+**Directorio Fuente** `/src/c/Users/Usuario/Desktop/GIT/Github/1067030891-UP-AndresContreras/BD-GB-ZOO`📂
+
 **Creado**: 23-Octubre-2024 🗓️  
 **Última Actualización**: 4-Noviembre-2024 ✨  
- 
+
 ## Descripción
 Bienvenido a **Mi Proyecto Asombroso**! Este repositorio alberga algunos de mis experimentos de código más emocionantes y proyectos personales. Siente la libertad de explorar la carpeta `/src` para ver todo el contenido mágico. ⚡
 
